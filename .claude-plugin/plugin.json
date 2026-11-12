@@ -1,0 +1,10 @@
+{
+  "name": "wp-updates",
+  "description": "Routine WordPress core, plugin and theme update workflow using WP-CLI and git, with a dated branch, separate commits, a staging merge, and push only on approval.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mahfuzul Hasan"
+  },
+  "license": "MIT",
+  "keywords": ["wordpress", "wp-cli", "updates", "git", "agent-skills"]
+}

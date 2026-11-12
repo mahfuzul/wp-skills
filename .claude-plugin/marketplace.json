@@ -1,0 +1,13 @@
+{
+  "name": "wp-updates-skill",
+  "owner": {
+    "name": "Mahfuzul Hasan"
+  },
+  "plugins": [
+    {
+      "name": "wp-updates",
+      "source": "./",
+      "description": "Routine WordPress core, plugin and theme update workflow using WP-CLI and git, with a dated branch, separate commits, a staging merge, and push only on approval."
+    }
+  ]
+}
