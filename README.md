@@ -14,7 +14,7 @@ Core, plugins and themes each get their own commit, so any one can be reverted a
 ## Prerequisites
 
 - [WP-CLI](https://wp-cli.org) (`wp`) with working database access to the site
-- `git`, with a base branch (`master`/`main`) and a `stage`/`staging` branch
+- `git`, with a base branch (`master`/`main`) and a `stage`/`staging`/`dev`/`develop` branch
 - An AI coding agent that supports Agent Skills
 
 ## Install
