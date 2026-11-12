@@ -22,14 +22,14 @@ Core, plugins and themes each get their own commit, so any one can be reverted a
 ### Any agent (Claude Code, Codex, OpenCode, and others)
 
 ```sh
-npx skills add <your-github-user>/wp-updates-skill
+npx skills add <your-github-user>/wp-skills
 ```
 
 ### Claude Code plugin marketplace
 
 ```
-/plugin marketplace add <your-github-user>/wp-updates-skill
-/plugin install wp-updates@wp-updates-skill
+/plugin marketplace add <your-github-user>/wp-skills
+/plugin install wp-updates@wp-skills
 ```
 
 ### Manual
